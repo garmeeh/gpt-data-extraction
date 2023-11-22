@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+pytesseract
+Pillow
+pypdfium2
+streamlit
+pandas
+requests
+openai
